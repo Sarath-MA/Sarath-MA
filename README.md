@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Microsoft Future ready Talent**
 
-- 📝 I regularly write articles on [https://sarath01.medium.com](https://sarath01.medium.com)
+- 📝 I regularly write articles on https://www.sarath01.medium.com
 
 - 💬 Ask me about **data science, Machine learning, deep learning, python and open source**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sarath-ma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarath-ma01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarath-ma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sarath-ma01" height="30" width="40" /></a>
 <a href="https://medium.com/@sarath m_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarath m_a" height="30" width="40" /></a>
 </p>
 
