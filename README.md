@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Microsoft Future ready Talent**
 
-- 📝 I regularly write articles on https://www.sarath01.medium.com
-
 - 💬 Ask me about **data science, Machine learning, deep learning, python and open source**
 
 - 📫 How to reach me **sarathma33@gmail.com**
